@@ -1,4 +1,4 @@
-package estruturas.trees;
+package estruturas.trees.iteractive_bst;
 
 public class Node {
     public int value;

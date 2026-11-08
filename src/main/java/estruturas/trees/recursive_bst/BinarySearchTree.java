@@ -1,4 +1,4 @@
-package estruturas.trees;
+package estruturas.trees.recursive_bst;
 
 public class BinarySearchTree {
     public Node root;
